@@ -23,7 +23,6 @@ This readme file contains these sections:
 The DCT concentrates most of the pixels energy distribution into a few frequency coefficients. 
 DCT is a valuable tool for pictures compression, when associated with Quantization and VLC. The transform itself does not compress images and it is accurately reversible. DCT is a separable transform: 2-D F-DCT and I-DCT can be done as consecutive 1-D transforms
     
-[Full Documentation]
 
 ## 2. SOFTWARE TOOLS AND SYSTEM REQUIREMENTS
 
