@@ -51,7 +51,7 @@ DCT is a valuable tool for pictures compression, when associated with Quantizati
 1. In the Vivado HLS command line window:
 
 ```
-	vivado_hls run_hls_dct_script.tcl
+	vivado_hls script.tcl
 ```
 
 ## 5. OTHER INFORMATION
