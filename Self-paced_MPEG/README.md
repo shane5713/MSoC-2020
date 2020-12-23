@@ -31,19 +31,27 @@ DCT is a valuable tool for pictures compression, when associated with Quantizati
 
 ## 3. DESIGN FILE HIERARCHY
 ```
-	|   CONTRIBUTING.md
-	|   LICENSE.md
+	
 	|   README.md
-	|   wang_dct_db_v2.pdf
-	|   
-	\---wang_dct
+	\---code
 			dct.h
 			dct_coeff_table.h
 			fdctref.cpp
 			my_dct.cpp
-			run_hls_dct_script.tcl
-			test_wang_fdct.cpp
 			wang_fdct.cpp
+	\---code-opt
+			dct.h
+			dct_coeff_table.h
+			fdctref.cpp
+			my_dct.cpp
+			wang_fdct.cpp
+	\---testdata
+			test_wang_fdct.cpp
+	\---impl
+			top_fdct_csyth.rpt
+	\---script
+			script.tcl
+			
 ```
 
 ## 4. INSTALLATION AND OPERATING INSTRUCTIONS
