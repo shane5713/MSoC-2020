@@ -48,4 +48,3 @@ For more information check here:
 For questions and to get help on this project or your own projects, visit the [Vivado HLS Forums][]. 
 
 
-REF: https://github.com/Xilinx/HLx_Examples
